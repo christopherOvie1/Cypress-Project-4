@@ -1,0 +1,10 @@
+
+{"chromeWebSecurity":false,
+    "baseUrl" : "https://www.way2automation.com/angularjs-protractor/banking/#/login",
+    "pageLoadTimeout" : 120000
+
+
+
+
+
+}
